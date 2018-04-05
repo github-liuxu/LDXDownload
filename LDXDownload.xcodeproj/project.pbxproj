@@ -50,6 +50,7 @@
 		0C026ED72070F6AE003AE960 = {
 			isa = PBXGroup;
 			children = (
+				0C026EF920711506003AE960 /* Classes */,
 				0C026EE22070F6AE003AE960 /* LDXDownload */,
 				0C026EE12070F6AE003AE960 /* Products */,
 				7FEB6411900A72D9C419E235 /* Pods */,
@@ -68,7 +69,6 @@
 		0C026EE22070F6AE003AE960 /* LDXDownload */ = {
 			isa = PBXGroup;
 			children = (
-				0C026EF920711506003AE960 /* Classes */,
 				0C026EE32070F6AE003AE960 /* AppDelegate.h */,
 				0C026EE42070F6AE003AE960 /* AppDelegate.m */,
 				0C026EE62070F6AE003AE960 /* ViewController.h */,
