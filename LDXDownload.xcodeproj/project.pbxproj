@@ -350,7 +350,7 @@
 				DEVELOPMENT_TEAM = Z5E3E2D8FE;
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = LDXDownload/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -370,7 +370,7 @@
 				DEVELOPMENT_TEAM = Z5E3E2D8FE;
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = LDXDownload/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
